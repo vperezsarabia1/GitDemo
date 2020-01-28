@@ -36,9 +36,9 @@ The commands below are used to submit changes from your local repository to the
 origin. Add in the arguments for the commands and use them to push these changes to your remote repository on GitHub.
 
 ```
-git add
-git commit
-git push
+git add <file>
+git commit -m "message"
+git push <name> <branch>
 ```
 
 ## Mission 2
